@@ -5,7 +5,7 @@
 }
 
 .prev-screen {
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #252525;
     color: rgba(255, 255, 255, 0.445);
@@ -17,7 +17,7 @@
 }
 
 .current-screen {
-    width: 25%;
+    width: 100%;
     height: 50px;
     background-color: #252525;
     color: white;
@@ -30,7 +30,7 @@
 
 
 .calculator-keys {
-    width: 50%;
+    width: 100%;
 }
 
 .row {
@@ -43,13 +43,13 @@ button {
     border: 1px solid black;
     font-size: 32px;
     color: #fff;
-    width: 12.5%;
+    width: 25%;
     outline: none;
 }
 
 .all-clear,
 .zero-btn {
-    width: 25%;
+    width: 50%;
 }
 
 .operator,
